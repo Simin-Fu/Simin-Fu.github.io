@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://simin-fu.github.io/al-folio/sitemap.xml
+Sitemap: https://simin-fu.github.io/sitemap.xml
